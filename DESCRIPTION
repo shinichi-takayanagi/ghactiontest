@@ -11,3 +11,5 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat
+URL: https://github.com/shinichi-takayanagi/ghactiontest
+BugReports: https://github.com/shinichi-takayanagi/ghactiontest/issues
